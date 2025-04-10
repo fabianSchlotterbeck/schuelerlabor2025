@@ -39,6 +39,7 @@ if(!dir.exists(plots_dir)) dir.create(plots_dir, recursive = TRUE, showWarnings 
 # data23a <- read.csv(file = file.path("..", "data", "sl_23_afternoon","monstera.csv")) 
 # data24m <- read.csv(file = file.path("..", "data", "sl_24_morning","monstera.csv")) 
 # data24a <- read.csv(file = file.path("..", "data", "sl_24_afternoon","monstera.csv")) 
+#data25 <- read.csv(file = file.path("..", "data", "sl_25","monstera.csv")) 
 # data <- rbind(data23m, data23a, data24m, data24a)
 
 data <- read.csv(file = file.path("..", "data", "monstera.csv")) 
