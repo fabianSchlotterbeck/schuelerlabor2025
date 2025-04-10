@@ -1,0 +1,65 @@
+id,item,conditions,expectancy,particle,start_sentence,R_expression,particle_used,original particle,unexpectedUnfair,selection,continutations_indices,checkbox
+67f79494a1519,24,2,high,EW,Ausgerechnet Robert,Robert,ausgerechnet,ausgerechnet,unexpected,,"[2, 1, 3]",{'jQuery111104656327071330304': 61}
+67f79494a1519,6,2,high,EW,Ausgerechnet Nadja,Nadja,ausgerechnet,ausgerechnet,unexpected,,"[2, 3, 1]",{'jQuery111104656327071330304': 61}
+67f79494a1519,25,1,high,RA,Nur Simon,Simon,nur,nur,unexpected,,"[2, 3, 1]",{'jQuery111104656327071330304': 61}
+67f79494a1519,13,3,high,OH,Jonas ,Jonas ,ohne,ohne,unexpected,cont2,"[3, 1, 2]",
+67f79494a1519,2,5,medium,EW,Ausgerechnet heute,heute,ausgerechnet,ausgerechnet,unexpected,cont2,"[2, 1, 3]",
+67f79494a1519,21,4,medium,RA,Auch heute,heute ,auch,auch,unexpected,,"[3, 1, 2]",{'jQuery111104656327071330304': 61}
+67f79494a1519,15,1,high,RA,Auch dann,dann,auch,auch,unexpected,cont3,"[3, 2, 1]",{'jQuery111104656327071330304': 61}
+67f79494a1519,101,dummy,high,dummy,Gestern,dummy,dummy,dummy,dummy,cont2,"[3, 1, 2]",{'jQuery111104656327071330304': 61}
+67f79494a1519,104,dummy,medium,dummy,Morgen wird er wahrscheinlich,dummy,dummy,dummy,dummy,cont1,"[3, 1, 2]",
+67f79494a1519,29,4,medium,RA,Nur sein neues Handy,sein neues Handy,nur,nur,unexpected and unfair,,"[2, 1, 3]",{'jQuery111104656327071330304': 61}
+67f79494a1519,18,5,medium,EW,Ausgerechnet Christian,Christian,ausgerechnet,ausgerechnet,unexpected,,"[3, 1, 2]",{'jQuery111104656327071330304': 61}
+67f79494a1519,23,3,high,OH,Jetzt,jetzt,ohne,ohne,unfair,,"[2, 1, 3]",{'jQuery111104656327071330304': 61}
+67f79494a1519,33,1,high,RA,Nur dieser Podcast,diese Podcast,nur,nur,unexpected,,"[1, 3, 2]",{'jQuery111104656327071330304': 61}
+67f79494a1519,103,dummy,high,dummy,Am Sonntag wird wahrscheinlich,dummy,dummy,dummy,dummy,,"[1, 3, 2]",{'jQuery111104656327071330304': 61}
+67f79494a1519,106,dummy,medium,dummy,Heute wird er wahrscheinlich,dummy,dummy,dummy,dummy,,"[2, 1, 3]",{'jQuery111104656327071330304': 61}
+67f79494a1519,105,dummy,high,dummy,Am Freitag wird sie wahrscheinlich,dummy,dummy,dummy,dummy,,"[2, 3, 1]",{'jQuery111104656327071330304': 61}
+67f79494a1519,32,2,high,EW,Ausgerechnet diese Tabletten,diese Tabletten,ausgerechnet,ausgerechnet,unexpected and unfair,cont2,"[2, 3, 1]",
+67f79494a1519,17,6,medium,OH,Diese Münze ,diese Münze,ohne,ohne,unexpected,,"[3, 2, 1]",{'jQuery111104656327071330304': 61}
+67f79494a1519,14,2,high,EW,Genau an diesem Tag,an diesem Tag,genau,genau,unexpected,,"[3, 1, 2]",{'jQuery111104656327071330304': 61}
+67f79494a1519,3,4,medium,RA,Nur Tims Volvo,Tims Volvo,nur,nur,unexpected  and unfair,,"[1, 2, 3]",{'jQuery111104656327071330304': 61}
+67f79494a1519,12,4,medium,RA,Auch Lisa,Lisa,auch,auch,unexpected,,"[3, 1, 2]",{'jQuery111104656327071330304': 61}
+67f79494a1519,108,dummy,medium,dummy,Heute wird er wahrscheinlich,dummy,dummy,dummy,dummy,,"[3, 1, 2]",{'jQuery111104656327071330304': 61}
+67f79494a1519,1,6,medium,OH,Peter,Peter,ohne,ohne,unexpected,,"[2, 3, 1]",{'jQuery111104656327071330304': 61}
+67f79494a1519,102,dummy,medium,dummy,Nächstes Jahr,dummy,dummy,dummy,dummy,,"[1, 3, 2]",{'jQuery111104656327071330304': 61}
+67f79494a1519,8,1,high,RA,Auch Moritz,Moritz,auch ,auch,unexpected,,"[2, 1, 3]",{'jQuery111104656327071330304': 61}
+67f79494a1519,9,6,medium,OH,Einen Tag vor dem Abflug,einen Tag vor dem Abflug,ohne,ohne ,unexpected,,"[1, 2, 3]",{'jQuery111104656327071330304': 61}
+67f79494a1519,28,5,medium,EW,Genau er,er,genau,genau,unexpected,,"[3, 2, 1]",{'jQuery111104656327071330304': 61}
+67f79494a1519,16,6,medium,OH,Diese Woche,diese Woche,ohne,ohne ,unexpected,,"[3, 2, 1]",{'jQuery111104656327071330304': 61}
+67f79494a1519,30,3,high,OH,Heute,heute ,ohne,ohne,unexpected and unfair,,"[2, 3, 1]",{'jQuery111104656327071330304': 61}
+67f79494a1519,11,5,medium,EW,Gerade dann,dann,gerade,gerade,unexpected,,"[1, 2, 3]",{'jQuery111104656327071330304': 61}
+67f79494a1519,107,dummy,high,dummy,Am Wochenende werden sie wahrscheinlich,dummy,dummy,dummy,dummy,cont2,"[3, 2, 1]",{'jQuery111104656327071330304': 61}
+67f79494a1519,4,3,high,OH,Chefarzt Neugebauer,Chefarzt Neugebauer,ohne,ohne ,unexpected,cont2,"[3, 2, 1]",
+67f791c939a16,32,1,high,RA,Auch diese Tabletten,diese Tabletten,auch ,auch,unexpected and unfair,cont2,"[3, 1, 2]",
+67f791c939a16,103,dummy,medium,dummy,Ruth wird vielleicht,dummy,dummy,dummy,dummy,,"[2, 3, 1]",{'jQuery111106815411637177897': 61}
+67f791c939a16,29,3,high,OH,Sein neues Handy,sein neues Handy,ohne,ohne,unexpected and unfair,,"[1, 2, 3]",{'jQuery111106815411637177897': 61}
+67f791c939a16,14,1,high,RA,Nur an diesem Tag,an diesem Tag,bloß,bloß,unexpected,,"[2, 3, 1]",{'jQuery111106815411637177897': 61}
+67f791c939a16,33,6,medium,OH,Dieser Podcast,diese Podcast,ohne,ohne,unexpected,,"[3, 1, 2]",{'jQuery111106815411637177897': 61}
+67f791c939a16,18,4,medium,RA,Nur Christian,Christian,nur,nur,unexpected,,"[3, 1, 2]",{'jQuery111106815411637177897': 61}
+67f791c939a16,102,dummy,high,dummy,Die Niederlande,dummy,dummy,dummy,dummy,,"[3, 1, 2]",{'jQuery111106815411637177897': 61}
+67f791c939a16,17,5,medium,EW,Ausgerechnet diese Münze,diese Münze,ausgerechnet,ausgerechnet,unexpected,cont2,"[1, 2, 3]",{'jQuery111106815411637177897': 61}
+67f791c939a16,9,5,medium,EW,Ausgerechnet einen Tag vor dem Abflug,einen Tag vor dem Abflug,ausgerechnet,ausgerechnet,unexpected,,"[1, 2, 3]",{'jQuery111106815411637177897': 61}
+67f791c939a16,30,2,high,EW,Gerade heute ,heute ,gerade,gerade,unexpected and unfair,,"[2, 3, 1]",{'jQuery111106815411637177897': 61}
+67f791c939a16,15,6,medium,OH,Dann,dann,ohne,ohne,unexpected,,"[3, 2, 1]",{'jQuery111106815411637177897': 61}
+67f791c939a16,6,1,high,RA,Auch Nadja,Nadja,auch,auch,unexpected,,"[3, 1, 2]",{'jQuery111106815411637177897': 61}
+67f791c939a16,104,dummy,high,dummy,Lukas wird vielleicht,dummy,dummy,dummy,dummy,,"[3, 1, 2]",{'jQuery111106815411637177897': 61}
+67f791c939a16,106,dummy,high,dummy,Er wird vielleicht,dummy,dummy,dummy,dummy,,"[1, 2, 3]",{'jQuery111106815411637177897': 61}
+67f791c939a16,23,2,high,EW,Gerade jetzt,jetzt,gerade,gerade,unfair,,"[3, 2, 1]",{'jQuery111106815411637177897': 61}
+67f791c939a16,11,4,medium,RA,Erst dann,dann,erst,erst,unexpected,,"[1, 3, 2]",{'jQuery111106815411637177897': 61}
+67f791c939a16,108,dummy,high,dummy,Er wird vielleicht,dummy,dummy,dummy,dummy,,"[3, 1, 2]",{'jQuery111106815411637177897': 61}
+67f791c939a16,1,5,medium,EW,Ausgerechnet Peter,Peter,ausgerechnet,ausgerechnet,unexpected,,"[3, 1, 2]",{'jQuery111106815411637177897': 61}
+67f791c939a16,8,6,medium,OH,Moritz ,Moritz,ohne,ohne ,unexpected,,"[1, 2, 3]",{'jQuery111106815411637177897': 61}
+67f791c939a16,101,dummy,medium,dummy,Lola,dummy,dummy,dummy,dummy,,"[1, 2, 3]",{'jQuery111106815411637177897': 61}
+67f791c939a16,16,5,medium,EW,Eben diese Woche,diese Woche,eben,eben,unexpected,,"[1, 3, 2]",{'jQuery111106815411637177897': 61}
+67f791c939a16,13,2,high,EW,Gerade Jonas,Jonas ,gerade,gerade,unexpected,,"[3, 2, 1]",{'jQuery111106815411637177897': 61}
+67f791c939a16,105,dummy,medium,dummy,Sie wird vielleicht,dummy,dummy,dummy,dummy,,"[2, 1, 3]",{'jQuery111106815411637177897': 61}
+67f791c939a16,12,3,high,OH,Lisa,Lisa,ohne,ohne,unexpected,,"[3, 1, 2]",{'jQuery111106815411637177897': 61}
+67f791c939a16,4,2,high,EW,Gerade Chefarzt Neugebauer,Chefarzt Neugebauer,gerade,gerade,unexpected,,"[1, 2, 3]",{'jQuery111106815411637177897': 61}
+67f791c939a16,21,3,high,OH,Heute,heute ,ohne,ohne ,unexpected,,"[1, 2, 3]",{'jQuery111106815411637177897': 61}
+67f791c939a16,107,dummy,medium,dummy,Sie werden vielleicht,dummy,dummy,dummy,dummy,,"[1, 3, 2]",{'jQuery111106815411637177897': 61}
+67f791c939a16,2,4,medium,RA,Auch heute,heute,auch,auch,unexpected,,"[3, 2, 1]",{'jQuery111106815411637177897': 61}
+67f791c939a16,3,3,high,OH,Tims Volvo,Tims Volvo,ohne,ohne,unexpected  and unfair,,"[1, 2, 3]",{'jQuery111106815411637177897': 61}
+67f791c939a16,28,4,medium,RA,Sogar er ,er,sogar,sogar,unexpected,,"[2, 1, 3]",{'jQuery111106815411637177897': 61}
+67f791c939a16,24,1,high,RA,Auch Robert,Robert,auch,auch,unexpected,,"[2, 3, 1]",{'jQuery111106815411637177897': 61}
+67f791c939a16,25,6,medium,OH,Simon,Simon,ohne,ohne,unexpected,,"[3, 1, 2]",{'jQuery111106815411637177897': 61}

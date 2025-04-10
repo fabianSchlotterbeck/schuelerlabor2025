@@ -35,12 +35,15 @@ if(!dir.exists(plots_dir)) dir.create(plots_dir, recursive = TRUE, showWarnings 
 
 # read data from csv
 ```{r}
-data23m <- read.csv(file = file.path("..", "data", "sl_23_morning","monstera.csv")) 
-data23a <- read.csv(file = file.path("..", "data", "sl_23_afternoon","monstera.csv")) 
-data24m <- read.csv(file = file.path("..", "data", "sl_24_morning","monstera.csv")) 
-data24a <- read.csv(file = file.path("..", "data", "sl_24_afternoon","monstera.csv")) 
+# data23m <- read.csv(file = file.path("..", "data", "sl_23_morning","monstera.csv")) 
+# data23a <- read.csv(file = file.path("..", "data", "sl_23_afternoon","monstera.csv")) 
+# data24m <- read.csv(file = file.path("..", "data", "sl_24_morning","monstera.csv")) 
+# data24a <- read.csv(file = file.path("..", "data", "sl_24_afternoon","monstera.csv")) 
+# data <- rbind(data23m, data23a, data24m, data24a)
 
-data <- rbind(data23m, data23a, data24m, data24a)
+data <- read.csv(file = file.path("..", "data", "monstera.csv")) 
+
+
 ```
 
 
@@ -121,7 +124,8 @@ p
 ```
 ## save plot to pdf
 ```{r}
-pdf(file = file.path(plots_dir,"mean_freq_facet_without_dummy_sl.pdf"))
+#pdf(file = file.path(plots_dir,"mean_freq_facet_without_dummy_sl.pdf"))
+pdf(file = file.path(plots_dir,"mean_freq_facet_without_dummy_sl_25.pdf"))
 print(p)
 while (!is.null(dev.list()))
 dev.off()
@@ -150,7 +154,8 @@ p_ew_other <- ggplot(aggregated_data,aes(x=particle,y=n,fill=response_ew_other))
 
 p_ew_other
 
-pdf(file = file.path(plots_dir,"mean_freq_facet_without_dummy_ew_other_sl.pdf"))
+#pdf(file = file.path(plots_dir,"mean_freq_facet_without_dummy_ew_other_sl.pdf"))
+pdf(file = file.path(plots_dir,"mean_freq_facet_without_dummy_ew_other_sl_25.pdf"))
 #print(p_ew_other)
 p_ew_other
 while (!is.null(dev.list()))
@@ -176,7 +181,8 @@ p_oh_ra <- ggplot(aggregated_data_oh_ra,aes(x=particle,y=n,fill=response)) +
 
 p_oh_ra
 
-png(file = file.path(plots_dir,"mean_freq_facet_without_dummy_oh_ra_sl.png "))
+#png(file = file.path(plots_dir,"mean_freq_facet_without_dummy_oh_ra_sl.png "))
+png(file = file.path(plots_dir,"mean_freq_facet_without_dummy_oh_ra_sl_25.png "))
 print(p_oh_ra)
 while (!is.null(dev.list()))
 dev.off()
